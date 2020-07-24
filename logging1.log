@@ -1,0 +1,39 @@
+2020-02-19 16:29:27 INFO  Main:12 - SIMPLE INTEREST
+2020-02-19 16:29:27 INFO  Main:13 - Enter principal amount,time in years,rate:
+2020-02-19 16:29:32 INFO  Interest:14 - SIMPLE INTEREST FOR PRINCIPAL AMOUNT 1000 AT THE RATE 3 FOR 5 YEARS IS 150.0
+2020-02-19 16:29:32 INFO  Main:19 - --------------------------------------------------------------------------------------------
+2020-02-19 16:29:32 INFO  Main:20 - COMPOUND INTEREST:
+2020-02-19 16:29:32 INFO  Main:21 - Enter p -principal amount,n -where n is no of compounding periods in years,r -is rate
+2020-02-19 16:29:35 INFO  Interest:29 - COMPOUND INTEREST FOR AMOUNT 1000 AT THE RATE 0.05 WHICH IS COMPOUNDED ANUALLY AT 2 TIMES IS 102.49984
+2020-02-19 17:35:48 INFO  houseConstructionMain:10 - Provide required inputs for house construction:
+1:materials standard
+s or a or h
+s-standard materials as-above standard h-high standard
+2020-02-19 17:35:50 INFO  houseConstructionMain:12 - Enter the squarefeet of house:
+2020-02-19 17:35:52 INFO  houseConstructionMain:14 - Enter whether fully automated house or not
+y-if yes n-if no
+2020-02-19 17:35:54 INFO  houseConstructionMain:38 - THE PRICE FOR CONSTRUCTING THE HOUES WITH THE MENTIONED SPECIFICATIONS IS:240000.0
+2020-02-19 17:36:01 INFO  houseConstructionMain:10 - Provide required inputs for house construction:
+1:materials standard
+s or a or h
+s-standard materials as-above standard h-high standard
+2020-02-19 17:36:03 INFO  houseConstructionMain:12 - Enter the squarefeet of house:
+2020-02-19 17:36:04 INFO  houseConstructionMain:14 - Enter whether fully automated house or not
+y-if yes n-if no
+2020-02-19 17:36:05 INFO  houseConstructionMain:38 - THE PRICE FOR CONSTRUCTING THE HOUES WITH THE MENTIONED SPECIFICATIONS IS:300000.0
+2020-02-19 17:36:11 INFO  houseConstructionMain:10 - Provide required inputs for house construction:
+1:materials standard
+s or a or h
+s-standard materials as-above standard h-high standard
+2020-02-19 17:36:13 INFO  houseConstructionMain:12 - Enter the squarefeet of house:
+2020-02-19 17:36:15 INFO  houseConstructionMain:14 - Enter whether fully automated house or not
+y-if yes n-if no
+2020-02-19 17:36:18 INFO  houseConstructionMain:38 - THE PRICE FOR CONSTRUCTING THE HOUES WITH THE MENTIONED SPECIFICATIONS IS:360000.0
+2020-02-19 17:36:25 INFO  houseConstructionMain:10 - Provide required inputs for house construction:
+1:materials standard
+s or a or h
+s-standard materials as-above standard h-high standard
+2020-02-19 17:36:27 INFO  houseConstructionMain:12 - Enter the squarefeet of house:
+2020-02-19 17:36:28 INFO  houseConstructionMain:14 - Enter whether fully automated house or not
+y-if yes n-if no
+2020-02-19 17:36:31 INFO  houseConstructionMain:38 - THE PRICE FOR CONSTRUCTING THE HOUES WITH THE MENTIONED SPECIFICATIONS IS:500000.0
